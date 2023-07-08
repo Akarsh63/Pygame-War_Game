@@ -1,9 +1,9 @@
 # War Game
 
 ## How to Run
-
+Open war_game.py in the code editor and click on run and it starts.
 ## The Game
-
+By escaping from the bullets and bombs of the enemies the soldier should reach the target by catching bonus and saving the civilians
 ## Entities
 
 Entity | Movement | Ability / Properties
